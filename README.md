@@ -1,3 +1,5 @@
+[![MseeP.ai Security Assessment Badge](https://mseep.net/pr/biegehydra-bifrostmcp-badge.png)](https://mseep.ai/app/biegehydra-bifrostmcp)
+
 # Bifrost - VSCode Dev Tools MCP Server
 <a href="https://marketplace.visualstudio.com/items?itemName=ConnorHallman.bifrost-mcp">
   <img src="https://img.shields.io/visual-studio-marketplace/d/ConnorHallman.bifrost-mcp?label=VSCode%20Extension%20Downloads&cacheSeconds=3600" 
