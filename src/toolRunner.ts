@@ -91,7 +91,7 @@ export const runTool = async (name: string, args: any) => {
                         character: def.range.end.character
                     }
                 },
-                preview: await getPreview(uri, def.range?.start.line)
+                preview: await getPreview(def.uri, def.range?.start.line)
             }));
             break;
 
