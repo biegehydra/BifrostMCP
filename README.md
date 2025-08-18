@@ -5,6 +5,8 @@
        width="250">
 </a>
 
+[![Trust Score](https://archestra.ai/mcp-catalog/api/badge/quality/biegehydra/BifrostMCP)](https://archestra.ai/mcp-catalog/biegehydra__bifrostmcp)
+
 This VS Code extension provides a Model Context Protocol (MCP) server that exposes VSCode's powerful development tools and language features to AI tools. It enables advanced code navigation, analysis, and manipulation capabilities when using AI coding assistants that support the MCP protocol.
 
 ![image](https://raw.githubusercontent.com/biegehydra/BifrostMCP/refs/heads/master/src/images/cursor.png)
