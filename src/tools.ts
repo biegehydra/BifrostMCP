@@ -35,7 +35,7 @@ export const mcpTools = [
                     properties: {
                         line: {
                             type: "number",
-                            description: "One-based line number"
+                            description: "Zero-based line number"
                         },
                         character: {
                             type: "number",
@@ -93,7 +93,7 @@ export const mcpTools = [
                     properties: {
                         line: {
                             type: "number",
-                            description: "One-based line number"
+                            description: " line number"
                         },
                         character: {
                             type: "number",
@@ -140,7 +140,7 @@ export const mcpTools = [
                     properties: {
                         line: {
                             type: "number",
-                            description: "One-based line number"
+                            description: "Zero-based line number"
                         },
                         character: {
                             type: "number",
@@ -188,7 +188,7 @@ export const mcpTools = [
                     properties: {
                         line: {
                             type: "number",
-                            description: "One-based line number"
+                            description: "Zero-based line number"
                         },
                         character: {
                             type: "number",
